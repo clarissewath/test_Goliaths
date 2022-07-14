@@ -1,6 +1,6 @@
 # Test technique Goliaths
 
-# Technos 
+## Technos 
 
 React.js 
 Tailwind
