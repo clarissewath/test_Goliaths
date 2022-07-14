@@ -1,2 +1,6 @@
-# test_Goliaths
-Test technique Goliaths React.js
+# Test technique Goliaths
+
+# Technos 
+
+React.js 
+Tailwind
